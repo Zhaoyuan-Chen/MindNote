@@ -1,7 +1,7 @@
 # MindNote
 MindNote is an elegant, simple, smooth, and efficient mind mapping app designed to help you think clearly, plan effectively, and organize your ideas visually.
 # MindNote Privacy Policy
-Last updated: May 2026
+Last updated: May 12 2026.
 ## Data Collection
 MindNote does not collect any personal data. All data will be stored at your device(s) and iCloud(if enabled).
 We do not track users, serve ads, or share data with third parties.
